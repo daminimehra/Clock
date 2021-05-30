@@ -1,2 +1,2 @@
 # Clock
-Clock (HTML and CSS)
+Clock using HTML and CSS
